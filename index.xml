@@ -3,7 +3,7 @@
   <category name="MIDI Editor">
     <reapack name="mooqa_toggle select midi items at edit cursor to show in editor.lua" type="script">
       <version name="1.0.0" author="mooqa">
-        <source>https://github.com/mooqa/reaper/blob/40f3a368a6656504ee647b4ddcb04fa2ec2a20d8/mooqa_toggle%20select%20midi%20items%20at%20edit%20cursor%20to%20show%20in%20editor.lua</source>
+        <source>https://raw.githubusercontent.com/mooqa/reaper/58c11379eb21dc52a75b107f41efb90004e61ad3/MIDI%20Editor/mooqa_toggle%20select%20midi%20items%20at%20edit%20cursor%20to%20show%20in%20editor.lua</source>
       </version>
     </reapack>
   </category>
