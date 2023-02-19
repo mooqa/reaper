@@ -25,27 +25,27 @@
     </reapack>
   </category>
   <category name="Toggles">
-    <reapack name="mooqa_Action - Exclusive Record Arm (require toolbar button)" type="script">
+    <reapack name="mooqa_Action_Exclusive Record Arm (require toolbar button)" type="script">
       <version name="1.0.0" author="mooqa">
         <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Toggles/mooqa_Action%20-%20Exclusive%20Record%20Arm%20(require%20toolbar%20button).lua</source>
       </version>
     </reapack>
-    <reapack name="mooqa_Action - Exclusive Solo (require toolbar button).lua" type="script">
+    <reapack name="mooqa_Action_Exclusive Solo (require toolbar button).lua" type="script">
       <version name="1.0.0" author="mooqa">
         <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Toggles/mooqa_Action%20-%20Exclusive%20Solo%20(require%20toolbar%20button).lua</source>
       </version>
     </reapack>
-    <reapack name="mooqa_Startup - Toolbar Buttons States.lua" type="script">
+    <reapack name="mooqa_Startup_Toolbar Buttons States.lua" type="script">
       <version name="1.0.0" author="mooqa">
         <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Toggles/mooqa_Startup%20-%20Toolbar%20Buttons%20States.lua</source>
       </version>
     </reapack>
-    <reapack name="mooqa_Toolbar Button - Exclusive Record Arm.lua" type="script">
+    <reapack name="mooqa_Toolbar Button_Exclusive Record Arm.lua" type="script">
       <version name="1.0.0" author="mooqa">
         <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Toggles/mooqa_Toolbar%20Button%20-%20Exclusive%20Record%20Arm.lua</source>
       </version>
     </reapack>
-    <reapack name="/mooqa_Toolbar Button - Exclusive Solo.lua" type="script">
+    <reapack name="/mooqa_Toolbar Button_Exclusive Solo.lua" type="script">
       <version name="1.0.0" author="mooqa">
         <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Toggles/mooqa_Toolbar%20Button%20-%20Exclusive%20Solo.lua</source>
       </version>
