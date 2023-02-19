@@ -55,6 +55,7 @@
         <source main="main"></source>
       </version>
     </reapack> -->
+  </category>
   <category name="Track Properties">
     <reapack name="mooqa_Auto record arm selected tracks" type="script">
       <version name="1.0.0" author="mooqa">
