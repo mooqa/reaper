@@ -10,7 +10,17 @@
   <category name="Razor Edit">
     <reapack name="mooqa_stretch razor edit to region" type="script">
       <version name="1.0.0" author="mooqa">
-        <source main="main"> </source>
+        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/b6d30e1bf34ebfec2eca880ebe7daeb1703b3c43/Razor%20Edit/mooqa_stretch%20razor%20edit%20to%20region.lua</source>
+      </version>
+    </reapack>
+    <reapack name="mooqa_smart remove razor edit content" type="script">
+      <version name="1.0.0" author="mooqa">
+        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/b6d30e1bf34ebfec2eca880ebe7daeb1703b3c43/Razor%20Edit/mooqa_smart%20remove%20razor%20edit%20content.lua</source>
+      </version>
+    </reapack>
+    <reapack name="mooqa_razor edit envelope click to add points" type="script">
+      <version name="1.0.0" author="mooqa">
+        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/b6d30e1bf34ebfec2eca880ebe7daeb1703b3c43/Razor%20Edit/mooqa_razor%20edit%20envelope%20click%20to%20add%20points.lua</source>
       </version>
     </reapack>
   </category>
