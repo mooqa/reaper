@@ -55,4 +55,11 @@
         <source main="main"></source>
       </version>
     </reapack> -->
+  <category name="Track Properties">
+    <reapack name="mooqa_Auto record arm selected tracks" type="script">
+      <version name="1.0.0" author="mooqa">
+        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/ecc9da89c7ef8b65b379b7341b675fcdb0e4a027/Track%20Properties/mooqa_Auto%20record%20arm%20selected%20tracks.lua</source>
+      </version>
+    </reapack>
+  </category>
 </index>
