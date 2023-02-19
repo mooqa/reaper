@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="MOOQA Scripts">
+<index version="1" name="Mooqa Scripts">
   <category name="MIDI Editor">
     <reapack name="mooqa_toggle select midi items at edit cursor to show in editor.lua" type="script">
       <version name="1.0.0" author="mooqa">
@@ -50,11 +50,6 @@
         <source main="main">https://raw.githubusercontent.com/mooqa/reaper/d35b43bb0726e275555673a66dce0b160a669e64/Toggles/mooqa_Toolbar%20Button%20-%20Exclusive%20Solo.lua</source>
       </version>
     </reapack>
-    <!-- <reapack name=" " type="script">
-      <version name="1.0.0" author="mooqa">
-        <source main="main"></source>
-      </version>
-    </reapack> -->
   </category>
   <category name="Track Properties">
     <reapack name="mooqa_Auto record arm selected tracks" type="script">
