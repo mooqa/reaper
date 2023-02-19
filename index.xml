@@ -3,58 +3,58 @@
   <category name="MIDI Editor">
     <reapack name="mooqa_toggle select midi items at edit cursor to show in editor.lua" type="script">
       <version name="1.0.0" author="mooqa">
-        <source main="midi_editor">https://raw.githubusercontent.com/mooqa/reaper/58c11379eb21dc52a75b107f41efb90004e61ad3/MIDI%20Editor/mooqa_toggle%20select%20midi%20items%20at%20edit%20cursor%20to%20show%20in%20editor.lua</source>
+        <source main="midi_editor">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/MIDI%20Editor/mooqa_toggle%20select%20midi%20items%20at%20edit%20cursor%20to%20show%20in%20editor.lua</source>
       </version>
     </reapack>
   </category>
   <category name="Razor Edit">
     <reapack name="mooqa_stretch razor edit to region" type="script">
       <version name="1.0.0" author="mooqa">
-        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/b6d30e1bf34ebfec2eca880ebe7daeb1703b3c43/Razor%20Edit/mooqa_stretch%20razor%20edit%20to%20region.lua</source>
+        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Razor%20Edit/mooqa_stretch%20razor%20edit%20to%20region.lua</source>
       </version>
     </reapack>
     <reapack name="mooqa_smart remove razor edit content" type="script">
       <version name="1.0.0" author="mooqa">
-        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/b6d30e1bf34ebfec2eca880ebe7daeb1703b3c43/Razor%20Edit/mooqa_smart%20remove%20razor%20edit%20content.lua</source>
+        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Razor%20Edit/mooqa_smart%20remove%20razor%20edit%20content.lua</source>
       </version>
     </reapack>
     <reapack name="mooqa_razor edit envelope click to add points" type="script">
       <version name="1.0.0" author="mooqa">
-        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/b6d30e1bf34ebfec2eca880ebe7daeb1703b3c43/Razor%20Edit/mooqa_razor%20edit%20envelope%20click%20to%20add%20points.lua</source>
+        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Razor%20Edit/mooqa_razor%20edit%20envelope%20click%20to%20add%20points.lua</source>
       </version>
     </reapack>
   </category>
   <category name="Toggles">
     <reapack name="mooqa_Action - Exclusive Record Arm (require toolbar button)" type="script">
       <version name="1.0.0" author="mooqa">
-        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/d35b43bb0726e275555673a66dce0b160a669e64/Toggles/mooqa_Action%20-%20Exclusive%20Record%20Arm%20(require%20toolbar%20button).lua</source>
+        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Toggles/mooqa_Action%20-%20Exclusive%20Record%20Arm%20(require%20toolbar%20button).lua</source>
       </version>
     </reapack>
     <reapack name="mooqa_Action - Exclusive Solo (require toolbar button).lua" type="script">
       <version name="1.0.0" author="mooqa">
-        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/d35b43bb0726e275555673a66dce0b160a669e64/Toggles/mooqa_Action%20-%20Exclusive%20Solo%20(require%20toolbar%20button).lua</source>
+        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Toggles/mooqa_Action%20-%20Exclusive%20Solo%20(require%20toolbar%20button).lua</source>
       </version>
     </reapack>
     <reapack name="mooqa_Startup - Toolbar Buttons States.lua" type="script">
       <version name="1.0.0" author="mooqa">
-        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/d35b43bb0726e275555673a66dce0b160a669e64/Toggles/mooqa_Startup%20-%20Toolbar%20Buttons%20States.lua</source>
+        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Toggles/mooqa_Startup%20-%20Toolbar%20Buttons%20States.lua</source>
       </version>
     </reapack>
     <reapack name="mooqa_Toolbar Button - Exclusive Record Arm.lua" type="script">
       <version name="1.0.0" author="mooqa">
-        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/d35b43bb0726e275555673a66dce0b160a669e64/Toggles/mooqa_Toolbar%20Button%20-%20Exclusive%20Record%20Arm.lua</source>
+        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Toggles/mooqa_Toolbar%20Button%20-%20Exclusive%20Record%20Arm.lua</source>
       </version>
     </reapack>
     <reapack name="/mooqa_Toolbar Button - Exclusive Solo.lua" type="script">
       <version name="1.0.0" author="mooqa">
-        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/d35b43bb0726e275555673a66dce0b160a669e64/Toggles/mooqa_Toolbar%20Button%20-%20Exclusive%20Solo.lua</source>
+        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Toggles/mooqa_Toolbar%20Button%20-%20Exclusive%20Solo.lua</source>
       </version>
     </reapack>
   </category>
   <category name="Track Properties">
     <reapack name="mooqa_Auto record arm selected tracks" type="script">
       <version name="1.0.0" author="mooqa">
-        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/ecc9da89c7ef8b65b379b7341b675fcdb0e4a027/Track%20Properties/mooqa_Auto%20record%20arm%20selected%20tracks.lua</source>
+        <source main="main">https://raw.githubusercontent.com/mooqa/reaper/02512f9dc838960b37683feb501018a3a2bbb4b0/Track%20Properties/mooqa_Auto%20record%20arm%20selected%20tracks.lua</source>
       </version>
     </reapack>
   </category>
