@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="mooqa's reaper scripts">
+<index version="1" name="MOOQA Scripts">
   <category name="MIDI Editor">
     <reapack name="mooqa_toggle select midi items at edit cursor to show in editor.lua" type="script">
       <version name="1.0.0" author="mooqa">
